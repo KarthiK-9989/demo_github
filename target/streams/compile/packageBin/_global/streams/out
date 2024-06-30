@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Karthik Kondpak\IdeaProjects\deploy789\target\scala-2.13\deploy789_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	first$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Karthik Kondpak\IdeaProjects\deploy789\target\scala-2.13\classes\first$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	first.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Karthik Kondpak\IdeaProjects\deploy789\target\scala-2.13\classes\first.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runspark.sh[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Karthik Kondpak\IdeaProjects\deploy789\target\scala-2.13\classes\runspark.sh[0m
+[0m[[0m[0mdebug[0m] [0m[0m	second$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Karthik Kondpak\IdeaProjects\deploy789\target\scala-2.13\classes\second$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	second.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Karthik Kondpak\IdeaProjects\deploy789\target\scala-2.13\classes\second.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
